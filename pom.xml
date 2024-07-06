@@ -25,7 +25,7 @@
 				<version>3.3.0</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>maven_orangeHRM.xml</suiteXmlFile>
+						<suiteXmlFile>OrangeHRM.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
